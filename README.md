@@ -1,5 +1,9 @@
 # Donut Project – BlenderGuru Tutorial 
 
+
+https://github.com/user-attachments/assets/3596c347-0155-4e75-8fca-efed130c880f
+
+
 Questo progetto è il risultato del **BlenderGuru Donut Tutorial**, un'introduzione pratica all'uso di Blender 3D. È stato usato
 con l'obiettivo di acquisire familiarità con la modellazione, shading, lighting e rendering in Blender.
 
